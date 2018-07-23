@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/sym_def_app_icon.png</file>
+        <file>res/images/ic_launcher_email.png</file>
+        <file>res/images/ind1.png</file>
+        <file>res/images/ind2.png</file>
+        <file>res/images/ind3.png</file>
+        <file>res/images/ind4.png</file>
+        <file>res/images/ind5.png</file>
+    </qresource>
+</RCC>

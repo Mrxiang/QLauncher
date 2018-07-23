@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" xmlns:qt="http://schemas.qt.com"?>
+<com.qt.launcher.LauncherRootView
+
+    qt:id="@+id/launcher"
+    qt:layout_width="480"
+    qt:layout_height="800"
+    qt:fitsSystemWindows="true">
+
+    <com.qt.launcher.Workspace
+            qt:id="@+id/workspace"
+            qt:layout_column="match_parent"
+            qt:layout_row="match_parent"
+            qt:layout_gravity="center"
+            />
+
+
+</com.qt.launcher.LauncherRootView>
